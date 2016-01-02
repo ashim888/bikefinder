@@ -61,15 +61,15 @@ public class MainActivity extends AppCompatActivity {
     // Array of strings to store currencies
     String[] currency = new String[]{
     	"Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-    	"Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
-            "Electric Start , Alloy Wheels , Tubeless Tyres , Digital Display Panel , LED Tail Light , Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad"
+            "Bike One Hand ho. Tax pani 2073 samma clear xa. Condition A-One xa. Call me 9843212633 for more info, Very good in condition urgent sell, i want to sell this because i want to go abroad",
+            "urgent sale contact with given phone no. Bike colour black and red    _contact no has changed plz contact in: 9860776456, Very good in condition urgent sell, i want to sell this because i want to go abroad",
+            "Well maintained. Clean outlook. Maintinence free. Excellent conditions. Everything is fine. Driving is carefully., Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad",
+            "Bike brand new jastai cha no problem at all only 8000km ran.price fixed and final don't call me to bargain.one more thing 1 year ko tax baki cha 72/73 buyer should pay the tax if you want to buy it please call me only if you agree my price.",
+            "I wanna buy another bike so m selling it.. condition is very good..Fresh xa. no exchange. .serious buyers can give a call and have a talk.., i want to sell this because i want to go abroad",
+            "I want to ride r15 soo i would like to sell or exchange my bike with r15 v2 with lot above 60.., i want to sell this because i want to go abroad",
+            "Bike ekdamai fresh n excellent condition ma xa.. Time to time maintenance gareko ho n line manxe lai zero rupees ko kharcha lagnexa... Very good in condition urgent sell, i want to sell this because i want to go abroad",
+            "Bike gives near abt 40.6/ltr mileage and jus run 27000km... Believe garnu bike ekdamai fresh xa ma sanga aako bike bhayera ma yo bike bechna lageko... Bike hernus ra chalaunus i m sure u will b satisfied..",
+            "Plz plz serious buyer call/text me on 9845021472 or 9808420299, Front Disc Brake , Rear Disc Brake, Very good in condition urgent sell, i want to sell this because i want to go abroad"
     };
     
     
