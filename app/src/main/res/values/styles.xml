@@ -1,0 +1,42 @@
+<resources>
+     <!--Base application theme.-->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+         <!--Customize your theme here. -->
+         <!--Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#C2185B</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FFF9C4</item>
+
+        <!--<color name="primary">#E91E63</color>-->
+        <!--<color name="primary_dark">#C2185B</color>-->
+        <!--<color name="primary_light">#F8BBD0</color>-->
+        <!--<color name="accent">#FF5252</color>-->
+        <!--<color name="primary_text">#212121</color>-->
+        <!--<color name="secondary_text">#727272</color>-->
+        <!--<color name="icons">#FFFFFF</color>-->
+        <!--<color name="divider">#B6B6B6</color>-->
+    </style>
+
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">@style/ButtonBar</item>
+        <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+
+    <!-- Backward-compatible version of ?android:attr/buttonBarStyle -->
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <!-- Backward-compatible version of ?android:attr/buttonBarButtonStyle -->
+    <style name="ButtonBarButton" />
+
+
+</resources>
